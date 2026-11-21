@@ -20,8 +20,8 @@ STANZAS = [
     ],
     [
         "Nothing broke.",
-        "The world did not ask",
-        "for more of me.",
+        "No one knocked,",
+        "asking for more of me.",
     ],
     [
         "Staying, I found,",
